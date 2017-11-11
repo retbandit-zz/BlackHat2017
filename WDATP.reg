@@ -1,5 +1,5 @@
 Windows Registry Editor Version 5.00
-#dotNettoJscript and COM technique credits to James Forshaw @tiraniddo, Matt Nelson @enigma0x3, Casey Smith @subTee
+#DotNetToJScript and COM technique credits to James Forshaw @tiraniddo, Matt Nelson @enigma0x3, Casey Smith @subTee
 [HKEY_CURRENT_USER\SOFTWARE\Classes\Bandit.1.00]
 @="Bandit"
 [HKEY_CURRENT_USER\SOFTWARE\Classes\Bandit.1.00\CLSID]
