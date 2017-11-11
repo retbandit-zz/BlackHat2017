@@ -5,7 +5,7 @@
     description="retBandit"
     progid="retBandit"
     version="1.00"
-    classid="{00000001-0000-0000-0000-0000STARTATP}"
+    classid="{AAAA1111-0000-0000-0000-0000STARTATP}"
     remotable="true"
 	>
 </registration>
